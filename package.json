@@ -1,0 +1,19 @@
+{
+  "name": "around-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/us4190/around-social.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/us4190/around-social/issues"
+  },
+  "homepage": "https://github.com/us4190/around-social#readme"
+}
